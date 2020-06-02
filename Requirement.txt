@@ -1,0 +1,15 @@
+python 3.7
+pip install opencv-contrib-python
+pip install matplotlib
+
+-------------------------------------------------------------------
+
+Numpy (Comes with OpenCV)
+Tkinter
+Training Image Data
+Pickle
+
+-----------------------------------------------------------------
+
+Haarcascade of frontal face
+
