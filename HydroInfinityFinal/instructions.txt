@@ -11,6 +11,7 @@ Numpy (Comes with OpenCV)
 Tkinter
 Training Image Data
 Pickle
+Pyserial
 
 -----------------------------------------------------------------
 
